@@ -1,0 +1,141 @@
+.wed-top-section{
+    text-align: center;
+    color: hsl(180, 98%, 31%);
+    font-family: "calligraphy";
+}
+.wed-mid-page{
+    text-align: center;
+    font-family:"Bree-Serif";
+
+}
+nav a {
+    float:left;
+    list-style-type:none;
+
+}
+
+nav  a {
+    padding:14px 16px ; 
+    font-family:" "; 
+    display:block;
+    color:hsl(180, 98%, 31%);
+    font-weight:bold;
+    font-size: 20px;
+    text-align:center;
+    }
+nav a:hover{
+    background-color:#ADD8E6;
+}
+.wed-real-section{
+    background-image: url("https://img.freepik.com/free-photo/maldives-island_74190-2332.jpg?w=1060&t=st=1698228907~exp=1698229507~hmac=d897662f59bb3da2d27a26256ef5fdae2e613ba8095b785de8245c6dd7a6889c");
+    height:100vh;
+    background-size:cover;
+}
+nav button{
+    color: black;
+    background-color: whitesmoke;
+    border-radius:5px;
+    padding:14px 16px;
+    text-align: end;
+}
+.start-head{
+    font-family:"Roboto" ;
+    color:hsl(180, 98%, 31%);
+    
+    padding: 160px;
+    font-size: 50px;
+    
+}
+.start-para{
+    font-family:"Roboto";
+    color:whitesmoke;
+    font-size:20px;
+}
+.service-para{
+    color: black;
+    font-style: "Roboto";
+    padding: 10px;
+    margin: 10px;
+    font-size:30px;
+    text-align: center;
+    
+}
+.service-head{
+    font-family:"Roboto";
+    color:#F5BD02 ;
+    padding: 20px;
+    margin: 10px;
+}
+.home-style{
+    padding:14px 16px ; 
+    font-family:"Roboto"; 
+    display:block;
+    color:whitesmoke;
+    font-weight:bold;
+    font-size: 20px;
+    text-align:center;
+}
+.decoration-img{
+    width:300px;
+    height:200px;
+    background-size:cover;   
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius:20px;
+}
+.decoration-card{
+    background-color: hsl(180, 98%, 31%);
+    border-radius:10px;
+    text-align: center;
+    padding:20px;
+    margin: 10px;
+}
+.decoration-para{
+    font-family:"Roboto";
+    color:whitesmoke;
+    font-weight:bold;
+    font-size:40px;
+}
+.button{
+    border-radius:10px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.courosel-card{
+    margin:40px;
+    padding:40px;
+}
+
+.home-style{
+    color: #00008B;
+}
+.imgone{
+    width:10vw;
+    background-size:cover;
+    height:20vh;
+    padding: 10px;;
+}
+.decoration-img-one{
+    width:400px;
+    height:300px;
+    background-size:cover;   
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius:20px;
+}
+.head-five{
+    color:hsl(180, 98%, 31%);
+}
+.bg-container{
+    background-color: hsl(180, 98%, 31%);
+}
+.place-head{
+    color:whitesmoke;
+}
+.place-para{
+    font-style: italic;
+    font-size:20px;
+}
+
